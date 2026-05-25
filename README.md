@@ -113,8 +113,13 @@ Currently working through a structured curriculum in the following areas:
 ---
 
 ## GitHub Stats
-
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0804&theme=github_dark" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=David-0804&theme=github-dark-blue&hide_border=true" />
+</div>
+<!-- <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=David-0804&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-0804&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" />
 </div>
@@ -123,7 +128,7 @@ Currently working through a structured curriculum in the following areas:
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=David-0804&theme=github-dark-blue&hide_border=true" />
-</div>
+</div> -->
 
 ---
 
