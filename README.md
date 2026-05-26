@@ -126,6 +126,10 @@ Currently working through a structured curriculum in the following areas:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=David-0804&theme=tokyonight" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-0804&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
 ---
 
 <div align="center">
