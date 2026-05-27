@@ -146,7 +146,7 @@ Currently working through a structured curriculum in the following areas:
 </div>
 
 <div align="center">
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=David-0804&theme=dark&hide_border=false&include_all_commits=True&count_private=True&layout=compact)
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=David-0804&theme=dark&hide_border=false&include_all_commits=True&count_private=True&layout=compact" />
 </div>
 
 
@@ -154,7 +154,7 @@ Currently working through a structured curriculum in the following areas:
 ---
 ### ✍️ Random Quote
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
 </div>
 
 <div align="center">
