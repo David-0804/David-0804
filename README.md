@@ -156,7 +156,7 @@ Currently working through a structured curriculum in the following areas:
 ---
 ### ✍️ Random Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <div align="center">
